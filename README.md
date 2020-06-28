@@ -1,6 +1,9 @@
 ## circle-imageview
 圆角ImageView
 
+[![Platform](https://img.shields.io/badge/Platform-Android-00CC00.svg?style=flat)](https://www.android.com)
+[![](https://jitpack.io/v/lavalike/circle-imageview.svg)](https://jitpack.io/#lavalike/circle-imageview)
+
 ##### 自定义属性
 ``` xml
 <declare-styleable name="CircleImageView">
